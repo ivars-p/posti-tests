@@ -35,7 +35,7 @@ pabot --testlevelsplit --processes 4 --listener allure_robotframework:./report .
 ```python
 allure serve ./report
 ```
-![plot](.//report.png)
+![plot](.//report_preview.png)
 
 Troubleshooting
 ---------------
