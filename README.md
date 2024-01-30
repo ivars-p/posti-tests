@@ -3,11 +3,12 @@ Test automation project for web-application: 'https://www.posti.fi'
 
 The following tests are automated:
 ----------------------------------
+Scenario test case can be found here:
+[Tests](./tests)
 
+- POSTI-0001: Validation of a Finnish postal code - l0
 
-POSTI-0001: Validation of a Finnish postal code - l0
-
-POSTI-0002: Validate that the total and delivery fees are calculated correctly - l1
+- POSTI-0002: Validate that the total and delivery fees are calculated correctly - l1
 
 Requirements
 -------------
