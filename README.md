@@ -45,5 +45,6 @@ There can be as scenario where chromedriver is not up-to-date with the current c
 
 Possible improvements
 ---------------
-- Improve the way data is passed to the test cases - for cucumber there is data tables, would like to create smthing similar
+- Improve the way data is passed to the test cases - for cucumber there is data tables, would like to create smthing similar.
 - Introduce some sort of soft assertions' mechanism.
+- Shorten test scenarios a bit, I think they might be a bit to complex.
