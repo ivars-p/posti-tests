@@ -25,8 +25,7 @@ Quick start
 pip3 install -r requirements.txt 
 ```
 
-2. Run the test automation suit generating report in ./report folder. {By default, tests are executed using chrome in parallel mode using "4" threads
-}
+2. Run the test automation suit generating report in ./report folder. { By default, tests are executed using chrome in parallel mode using "4" threads }
 ```python
 pabot --testlevelsplit --processes 4 --listener allure_robotframework:./report ./tests/CheckoutTests.robot
 ```
